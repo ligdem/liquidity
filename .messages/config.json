@@ -1,6 +1,6 @@
 {
   "commit_frequency_min": 1440,
-  "binary_storage_type": "google_drive",
+  "binary_storage_type": "gitfs",
   "storage_info": {
     "type": "gitfs",
     "url": "https://drive.google.com/drive/folders/1ypVkpEk8DU1ye5menwH_HfoEr2FlMxqH",
