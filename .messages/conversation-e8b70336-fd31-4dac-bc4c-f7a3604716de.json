@@ -2,14 +2,14 @@
   "id": "e8b70336-fd31-4dac-bc4c-f7a3604716de",
   "repo": "ligdem/liquidity",
   "title": "test",
-  "createdAt": "2025-05-16T23:24:20.598Z",
+  "createdAt": "2025-05-17T00:55:44.714Z",
   "participants": [],
   "messages": [
     {
-      "id": "f276d7b0-265c-4d23-bd5c-5269d56102df",
+      "id": "f117c529-7791-4559-8de2-943ebc45d189",
       "sender": "You",
-      "content": "hola",
-      "timestamp": 1747437852216
+      "content": "hello",
+      "timestamp": 1747443342409
     }
   ]
 }
