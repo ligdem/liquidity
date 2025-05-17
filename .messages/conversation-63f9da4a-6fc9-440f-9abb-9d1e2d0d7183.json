@@ -1,1 +1,15 @@
-{"id":"63f9da4a-6fc9-440f-9abb-9d1e2d0d7183","repo":"ligdem/liquidity","title":"first_test","createdAt":"2025-05-17T02:47:44.719Z","participants":[],"messages":[]}
+{
+  "id": "63f9da4a-6fc9-440f-9abb-9d1e2d0d7183",
+  "repo": "ligdem/liquidity",
+  "title": "first_test",
+  "createdAt": "2025-05-17T02:47:58.808Z",
+  "participants": [],
+  "messages": [
+    {
+      "id": "a5ce9e82-8f9c-4c2e-b5d4-7ec3804b8bcf",
+      "sender": "You",
+      "content": "hello all",
+      "timestamp": 1747450077190
+    }
+  ]
+}
