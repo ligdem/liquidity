@@ -6,11 +6,6 @@
       "lastSeen": 1748051826331
     },
     {
-      "peerId": "ligdem-liquidity-smichea-e3d433fe-735d-413e-bdbc-ba659762c3a5",
-      "username": "smichea",
-      "lastSeen": 1748051771325
-    },
-    {
       "peerId": "ligdem-liquidity-smichea-99c2bdc6-1439-493f-b63c-8b80954146d4",
       "username": "smichea",
       "lastSeen": 1748051821336
@@ -28,7 +23,7 @@
     {
       "peerId": "ligdem-liquidity-smichea-9619e457-f5d8-42c3-8db0-ae866515d012",
       "username": "smichea",
-      "lastSeen": 1748051869848
+      "lastSeen": 1748051900349
     },
     {
       "peerId": "ligdem-liquidity-smichea-ddb9f111-5bc6-4543-883d-2cb969c05b1a",
@@ -36,5 +31,5 @@
       "lastSeen": 1748051873558
     }
   ],
-  "lastUpdated": 1748051873558
+  "lastUpdated": 1748051900349
 }
