@@ -1,15 +1,10 @@
 {
   "peers": [
     {
-      "peerId": "ligdem-liquidity-smichea-3a3f5987-9468-4abc-affe-4902d7c38cbd",
-      "username": "smichea",
-      "lastSeen": 1748053620336
-    },
-    {
       "peerId": "ligdem-liquidity-smichea-3ea1af8f-12ed-4035-a5e4-d04aa89232f8",
       "username": "smichea",
-      "lastSeen": 1748053710325
+      "lastSeen": 1748053721328
     }
   ],
-  "lastUpdated": 1748053710325
+  "lastUpdated": 1748053721328
 }
