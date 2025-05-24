@@ -6,16 +6,6 @@
       "lastSeen": 1748055833319
     },
     {
-      "peerId": "ligdem-liquidity-smichea-eb60dbf2-11e8-4e4b-b7c9-0960ee3d88dd",
-      "username": "smichea",
-      "lastSeen": 1748055763308
-    },
-    {
-      "peerId": "ligdem-liquidity-smichea-f0156d31-453a-4842-904f-4c0b86f80729",
-      "username": "smichea",
-      "lastSeen": 1748055759331
-    },
-    {
       "peerId": "ligdem-liquidity-smichea-05823997-cc11-4f64-88e1-331f9f812fac",
       "username": "smichea",
       "lastSeen": 1748055805333
@@ -33,7 +23,7 @@
     {
       "peerId": "ligdem-liquidity-smichea-fbdb14ca-f3b9-4363-b53e-dae817125095",
       "username": "smichea",
-      "lastSeen": 1748055829325
+      "lastSeen": 1748055859551
     },
     {
       "peerId": "ligdem-liquidity-smichea-46ac150b-628b-4408-963a-089c400799ca",
@@ -41,5 +31,5 @@
       "lastSeen": 1748055834412
     }
   ],
-  "lastUpdated": 1748055834412
+  "lastUpdated": 1748055859551
 }
