@@ -2,20 +2,38 @@
   "id": "1b339b88-fd01-476e-bcaa-a750b4ed675c",
   "repo": "ligdem/liquidity",
   "title": "the-third",
-  "createdAt": "2025-05-24T05:12:09.963Z",
+  "createdAt": "2025-05-24T05:21:04.628Z",
   "participants": [],
   "messages": [
     {
-      "id": "e295ff65-29a6-4362-8dfa-60c65dcba2f8",
+      "id": "b1433620-840f-4789-88b4-b19787148a96",
       "sender": "smichea",
-      "content": "coucou",
-      "timestamp": 1748044666164
+      "content": "hi hi",
+      "timestamp": 1748062335096
     },
     {
-      "id": "244702d9-4bfd-48cd-b274-01572b2ae3d3",
+      "id": "8bc5812b-20c2-4237-a214-f86e5c8b95b6",
       "sender": "smichea",
-      "content": "hello",
-      "timestamp": 1748053391785
+      "content": "do you see my message ?",
+      "timestamp": 1748062349171
+    },
+    {
+      "id": "42431463-4556-4293-8225-a24872d6e02c",
+      "sender": "smichea",
+      "content": "yes i do",
+      "timestamp": 1748062361401
+    },
+    {
+      "id": "e4bd77b7-bb00-4102-9c29-d7cbf1f92c36",
+      "sender": "smichea",
+      "content": "Hello guys",
+      "timestamp": 1748062582567
+    },
+    {
+      "id": "fd5e9f70-96ef-4270-bf6f-470ebd7f44d6",
+      "sender": "smichea",
+      "content": "hello my love",
+      "timestamp": 1748062605355
     },
     {
       "id": "7ad81f2e-5ae8-453f-b39f-3d6849f6643c",
