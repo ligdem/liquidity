@@ -1,25 +1,10 @@
 {
   "peers": [
     {
-      "peerId": "ligdem-liquidity-smichea-cc8457ac-3bc3-424c-a5c6-12480ad8f14c",
+      "peerId": "ligdem-liquidity-smichea-bb44864a-fcf7-4c52-a85c-ee828c96abf9",
       "username": "smichea",
-      "lastSeen": 1748055833319
-    },
-    {
-      "peerId": "ligdem-liquidity-smichea-05823997-cc11-4f64-88e1-331f9f812fac",
-      "username": "smichea",
-      "lastSeen": 1748055805333
-    },
-    {
-      "peerId": "ligdem-liquidity-smichea-fbdb14ca-f3b9-4363-b53e-dae817125095",
-      "username": "smichea",
-      "lastSeen": 1748055859551
-    },
-    {
-      "peerId": "ligdem-liquidity-smichea-46ac150b-628b-4408-963a-089c400799ca",
-      "username": "smichea",
-      "lastSeen": 1748055834412
+      "lastSeen": 1748055975035
     }
   ],
-  "lastUpdated": 1748055891412
+  "lastUpdated": 1748055975035
 }
