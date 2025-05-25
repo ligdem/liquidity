@@ -2,7 +2,7 @@
   "id": "1b339b88-fd01-476e-bcaa-a750b4ed675c",
   "repo": "ligdem/liquidity",
   "title": "the-third",
-  "createdAt": "2025-05-25T05:12:50.197Z",
+  "createdAt": "2025-05-25T05:15:56.124Z",
   "participants": [],
   "messages": [
     {
@@ -84,6 +84,12 @@
       "timestamp": 1748149421484
     },
     {
+      "id": "82789333-0d23-47c0-9932-5ea7547b6bf1",
+      "sender": "yodzzftw",
+      "content": "Holaaaa",
+      "timestamp": 1748149708916
+    },
+    {
       "id": "06d6b345-2204-4002-88fa-9e9f14e4d405",
       "sender": "smichea",
       "content": "Hey",
@@ -100,6 +106,12 @@
       "sender": "smichea",
       "content": "Hi jm how are you",
       "timestamp": 1748149872940
+    },
+    {
+      "id": "6b0799b6-b4a5-4a6d-958f-c12f6dbe0f8b",
+      "sender": "smichea",
+      "content": "I am here",
+      "timestamp": 1748150134633
     }
   ]
 }
