@@ -2,7 +2,7 @@
   "id": "1b339b88-fd01-476e-bcaa-a750b4ed675c",
   "repo": "ligdem/liquidity",
   "title": "the-third",
-  "createdAt": "2025-05-25T05:02:32.356Z",
+  "createdAt": "2025-05-25T05:09:05.179Z",
   "participants": [],
   "messages": [
     {
@@ -82,6 +82,12 @@
       "sender": "yodzzftw",
       "content": "Hello tito",
       "timestamp": 1748149421484
+    },
+    {
+      "id": "82789333-0d23-47c0-9932-5ea7547b6bf1",
+      "sender": "yodzzftw",
+      "content": "Holaaaa",
+      "timestamp": 1748149708916
     }
   ]
 }
