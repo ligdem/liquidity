@@ -2,7 +2,7 @@
   "id": "1b339b88-fd01-476e-bcaa-a750b4ed675c",
   "repo": "ligdem/liquidity",
   "title": "the-third",
-  "createdAt": "2025-05-25T06:37:57.412Z",
+  "createdAt": "2025-06-07T02:31:57.142Z",
   "participants": [],
   "messages": [
     {
@@ -28,6 +28,12 @@
       "sender": "altitude1326",
       "content": "pas possible ?",
       "timestamp": 1748158084273
+    },
+    {
+      "id": "1ecfa8c2-ee3a-4ab5-ba8a-9541a63beb7d",
+      "sender": "smichea",
+      "content": "voici un nouveau message",
+      "timestamp": 1749263508799
     }
   ]
 }
